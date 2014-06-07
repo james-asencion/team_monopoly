@@ -77,6 +77,4 @@ public class Event {
     public void setCreator(User creator) {
         this.creator = creator;
     }
-    
-    
 }
